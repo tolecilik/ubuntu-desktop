@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/playwright
 LABEL AboutImage "Playwright_Fluxbox_NoVNC"
-LABEL Maintainer "Mohammad Almechkor <medalmechkor@gmail.com>"
+LABEL Maintainer "Mulungweb <mulungweb2020@gmail.com>"
 ARG DEBIAN_FRONTEND=noninteractive
 ENV DEBIAN_FRONTEND=noninteractive \
   #VNC Server Password
